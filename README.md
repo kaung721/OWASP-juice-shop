@@ -17,8 +17,8 @@ Only challenges that were personally difficult or required investigation are inc
 
 ## Reference
 Official OWASP Juice Shop solutions and walkthroughs:
-https://pwning.owasp-juice.shop/part1/
-https://help.owasp-juice.shop/appendix/solutions.html
+* https://pwning.owasp-juice.shop/part1/
+* https://help.owasp-juice.shop/appendix/solutions.html
 
 ## Purpose
 - Practice real-world vulnerability reporting
